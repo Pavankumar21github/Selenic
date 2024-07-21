@@ -1,0 +1,7 @@
+com\para\page\ParaBankAccountsOverviewPage.class
+com\para\page\ParaBankOpenAccountPage.class
+com\para\page\ParaBankWelcomeOnlineBankingPage.class
+com\para\page\ParaBankTransferFundsPage.class
+com\para\ParaBankTest.class
+com\para\page\ParaBankBillPaymentCompletePage.class
+com\para\page\ParaBankBillPayPage.class
